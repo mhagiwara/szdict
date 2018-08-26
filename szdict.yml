@@ -1,0 +1,98 @@
+# szdict - Creative Commons Chinese-English Dictionary of Tech Terms
+
+
+# C
+
+- word: 层
+  tr: 層
+  pinyin: céng
+  trans: layer
+  def: layer(s) of neural networks
+
+
+- word: 词向量
+  tr: 詞向量
+  seg: -/--
+  pinyin: cí xiàngliàng
+  trans: word vector
+  rel: ['向量']
+
+
+# D
+
+- word: 多层感知器
+  tr: 多層感知器
+  seg: --/--/-
+  pinyin: duōcéng gǎnzhī qì
+  trans: multilayer perceptron (MLP)
+  rel: ['感知器']
+
+
+# G
+
+- word: 概率
+  tr: 概率
+  pinyin: gàilǜ
+  trans: probability
+
+- word: 感知器
+  tr: 感知器
+  seg: --/-
+  pinyin: gǎnzhī qì
+  trans: perceptron
+
+
+# J
+
+- word: 矩阵
+  tr: 矩陣
+  pinyin: jǔzhèn
+  trans: matrix
+
+# S
+
+- word: 神经网络
+  tr: 神經網絡
+  seg: --/--
+  pinyin: shénjīng wǎngluò
+  trans: neural network
+
+- word: 数据集
+  tr: 數據集
+  seg: --/-
+  pinyin: shùjù jí
+  trans: dataset
+
+
+# W
+
+- word: 无监督学习
+  tr: 無監督學習
+  seg: -/--/--
+  pinyin: wú jiāndū xuéxí
+  trans: unsupervised learning
+  var: ['无监督式学习']
+
+
+# X
+
+- word: 向量
+  tr: 向量
+  pinyin: xiàngliàng
+  trans: vector
+
+# Y
+
+- word: 隐藏层
+  tr: 隱藏層
+  seg: --/-
+  pinyin: yǐncáng céng
+  trans: hidden layer
+  rel: ['层']
+
+
+- word: 语言模型
+  tr: 語言模型
+  seg: --/--
+  pinyin: yǔyán móxíng
+  trans: language model(ing)
