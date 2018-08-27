@@ -9,7 +9,6 @@
   trans: layer
   def: layer(s) of neural networks
 
-
 - word: 词向量
   tr: 詞向量
   seg: -/--
@@ -44,12 +43,31 @@
 
 # J
 
+- word: 卷积神经网络
+  tr: 卷積神經網絡
+  seg: --/--/--
+  pinyin: juǎnjī shénjīng wǎngluò
+  trans: convolutional neural network (CNN)
+
 - word: 矩阵
   tr: 矩陣
   pinyin: jǔzhèn
   trans: matrix
 
+
 # S
+
+- word: 扫码
+  tr: 掃碼
+  seg: -/-
+  pinyin: sǎo mǎ
+  trans: to scan a QR code
+
+- word: 深度学习
+  tr: 深度學習
+  seg: --/--
+  pinyin: shēndù xuéxí
+  trans: deep learning (DL)
 
 - word: 神经网络
   tr: 神經網絡
@@ -90,9 +108,17 @@
   trans: hidden layer
   rel: ['层']
 
-
 - word: 语言模型
   tr: 語言模型
   seg: --/--
   pinyin: yǔyán móxíng
   trans: language model(ing)
+
+
+# Z
+
+- word: 自然语言处理
+  tr: 自然語言處理
+  seg: --/--/--
+  pinyin: zìrán yǔyán chǔlǐ
+  trans: natural language processing (NLP)
