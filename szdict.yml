@@ -9,6 +9,12 @@
   trans: layer
   def: layer(s) of neural networks
 
+- word: 词袋模型
+  tr: 詞袋模型
+  seg: --/--
+  pinyin: cídài móxíng
+  trans: bag-of-words (BoW) model
+
 - word: 词向量
   tr: 詞向量
   seg: -/--
@@ -25,6 +31,13 @@
   pinyin: duōcéng gǎnzhī qì
   trans: multilayer perceptron (MLP)
   rel: ['感知器']
+
+
+# F
+
+- word: 分类
+  tr: 分類
+  pinyin: fēnlèi
 
 
 # G
@@ -53,6 +66,14 @@
   tr: 矩陣
   pinyin: jǔzhèn
   trans: matrix
+
+
+# M
+
+- word: 模型
+  tr: 模型
+  pinyin: móxíng
+  trans: model
 
 
 # S
@@ -98,6 +119,12 @@
   tr: 向量
   pinyin: xiàngliàng
   trans: vector
+
+- word: 训练
+  tr: 訓練
+  pinyin: xùnliàn
+  trans: to train; training
+
 
 # Y
 

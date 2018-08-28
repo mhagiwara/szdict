@@ -4,4 +4,4 @@ This is an open-source (creative commons) dictionary of Chinese-English tech ter
 
 The main dictionary file is [szdict.yml](szdict.yml). It is written in YAML.
 
-[validate.py](validate.py) is a Python script that validates the format of `szdict.html`, which requires `PyYAML` package to run.  It shows `Validation: PASSED` if it succeeds in validatating the file.
+[validate.py](validate.py) is a Python script that validates the format of `szdict.yml`, which requires `PyYAML` package to run.  It shows `Validation: PASSED` if it succeeds in validatating the file.
