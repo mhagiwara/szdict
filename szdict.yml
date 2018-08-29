@@ -38,6 +38,7 @@
 - word: 分类
   tr: 分類
   pinyin: fēnlèi
+  trans: to classify; classification
 
 
 # G
@@ -52,6 +53,22 @@
   seg: --/-
   pinyin: gǎnzhī qì
   trans: perceptron
+
+- word: 过拟合
+  tr: 過擬合
+  seg: -/--
+  pinyin: guò nǐhé
+  trans: overfitting
+
+
+# H
+
+- word: 华强北
+  tr: 華強北
+  seg: --/-
+  pinyin: Huáqiáng běi
+  trans: Huaqiangbei
+  def: a district in Shenzhen famous for its electronic markets
 
 
 # J
@@ -82,7 +99,14 @@
   tr: 掃碼
   seg: -/-
   pinyin: sǎo mǎ
-  trans: to scan a QR code
+  trans: to scan
+  def: a bar/QR code
+
+- word: 上下文
+  tr: 上下文
+  pinyin: shàngxiàwén
+  trans: context
+  def: of text
 
 - word: 深度学习
   tr: 深度學習
@@ -95,6 +119,12 @@
   seg: --/--
   pinyin: shénjīng wǎngluò
   trans: neural network
+
+- word: 深圳
+  tr: 深圳
+  pinyin: Shēnzhèn
+  trans: Shenzhen
+  def: a city in Guangdong Province, China
 
 - word: 数据集
   tr: 數據集
