@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175204-16"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-175204-16');
+    </script>
+
+    <meta charset="UTF-8">
+    <title>szdict - Creative Commons Chinese-English Dictionary of Tech Terms</title>
+</head>
+<body>
+    <h1>szdict - Creative Commons Chinese-English Dictionary of Tech Terms</h1>
+        <p>This is an open-source (creative commons) dictionary of Chinese-English tech terms. It is available under <a href="https://creativecommons.org/licenses/by-sa/3.0/">the Creative Commons Attribution-ShareAlike (CC BY-SA 3.0) License.</a></p>
+
+        <p>See the <a href="https://github.com/mhagiwara/szdict">Github repository</a> for the complete data and more information.</p>
+    <ul>
+    {% for entry in data %}
+        <li><a href="{{ entry['url'] }}">{{ entry['word'] }}</a></li>
+    {% endfor %}
+    </ul>
+
+</body>
+</html>

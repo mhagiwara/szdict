@@ -73,6 +73,13 @@
 
 # J
 
+- word: 机器学习
+  tr: 機器學習
+  seg: --/--
+  pinyin: jīqì xuéxí
+  trans: machine learning; ML
+
+
 - word: 卷积神经网络
   tr: 卷積神經網絡
   seg: --/--/--
@@ -91,6 +98,15 @@
   tr: 模型
   pinyin: móxíng
   trans: model
+
+
+# R
+
+- word: 人工智能
+  tr: 人工智能
+  seg: --/--
+  pinyin: réngōng zhìnéng
+  trans: artificial intelligence, AI
 
 
 # S
@@ -132,8 +148,19 @@
   pinyin: shùjù jí
   trans: dataset
 
+- word: 算法
+  tr: 算法
+  pinyin: suànfǎ
+  trans: algorithm
+
 
 # W
+
+- word: 微信
+  tr: 微信
+  pinyin: wēixìn
+  trans: WeChat
+  def: a Chinese messaging, social media, and mobile payment app developed by Tencent
 
 - word: 无监督学习
   tr: 無監督學習

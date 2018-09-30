@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175204-16"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-175204-16');
+    </script>
+
+    <meta charset="UTF-8">
+    <title>{{ word }} - {{ trans }} in Chinese - szdict - Chinese-English Dictionary</title>
+</head>
+<body>
+    <h1>{{ word }} ({{ pinyin }})</h1>
+    <h2>{{ trans }}</h2>
+
+    <p>{{ def }}</p>
+
+    <hr />
+    <div style="float: left; width: 20%; text-align: center;"><a href="{{ prev_entry['url'] }}">{{ prev_entry['word'] }}</a></div>
+    <div style="float: left; width: 60%; text-align: center;"><a href="/">szdict - Creative Commons Chinese-English Dictionary of Tech Terms</a></div>
+    <div style="float: left; width: 20%; text-align: center;"><a href="{{ next_entry['url'] }}">{{ next_entry['word'] }}</a></div>
+</body>
+</html>
