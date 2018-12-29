@@ -32,6 +32,14 @@
   trans: multilayer perceptron (MLP)
   rel: ['感知器']
 
+- word: 独角兽企业
+  tr: 獨角獸企業
+  seg: ---/--
+  pinyin: dújiǎoshòu qǐyè
+  trans: unicorn
+  def: a privately held start company with $1B+ valuation
+  var: ['独角兽']
+
 
 # F
 
@@ -39,6 +47,12 @@
   tr: 分類
   pinyin: fēnlèi
   trans: to classify; classification
+
+- word: 孵化器
+  tr: 孵化器
+  seg: --/-
+  pinyin: fūhuàqì
+  trans: incubator
 
 
 # G
@@ -70,6 +84,11 @@
   trans: Huaqiangbei
   def: a district in Shenzhen famous for its electronic markets
 
+- word: 互联网
+  tr: 互聯網
+  seg: --/-
+  pinyin: hùliánwǎng
+  trans: Internet
 
 # J
 
@@ -108,6 +127,11 @@
   pinyin: réngōng zhìnéng
   trans: artificial intelligence, AI
 
+- word: 软件
+  tr: 軟件
+  pinyin: ruǎnjiàn
+  trans: software
+  rel: ['硬件']
 
 # S
 
@@ -154,6 +178,15 @@
   trans: algorithm
 
 
+# T
+
+- word: 天使投资人
+  tr: 天使投資人
+  seg: --/--/-
+  pinyin: tiānshǐ tóuzī rén
+  trans: angel investor
+
+
 # W
 
 - word: 微信
@@ -169,6 +202,17 @@
   trans: unsupervised learning
   var: ['无监督式学习']
 
+- word: 无人机
+  tr: 無人機
+  seg: --/-
+  pinyin: wúrén jī
+  trans: drone
+
+- word: 无人驾驶
+  tr: 無人駕駛
+  seg: --/--
+  pinyin: wúrén jiàshǐ
+  trans: self-driving; driverless
 
 # X
 
@@ -176,6 +220,11 @@
   tr: 向量
   pinyin: xiàngliàng
   trans: vector
+
+- word: 芯片
+  tr: 芯片
+  pinyin: xīnpiàn
+  trans: microchip
 
 - word: 训练
   tr: 訓練
@@ -192,6 +241,12 @@
   trans: hidden layer
   rel: ['层']
 
+- word: 硬件
+  tr: 硬件
+  pinyin: yìngjiàn
+  trans: hardware
+  rel: ['软件']
+
 - word: 语言模型
   tr: 語言模型
   seg: --/--
@@ -200,6 +255,11 @@
 
 
 # Z
+
+- word: 中关村
+  tr: 中關村
+  pinyin: Zhōngguāncūn
+  trans: a technology hub in Beijing, also known as "China's Silicon Valley"
 
 - word: 自然语言处理
   tr: 自然語言處理
